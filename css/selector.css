@@ -29,11 +29,11 @@ h2{
 }
 
 .study-list li:first-child{
-    background-color: #skyblue;
+    background-color: skyblue;
 }
 .study-list li:nth-child(2){
-    background-color: #purple;
+    background-color: purple;
 }
 .study-list li:last-child{
-    background-color: #orange;
+    background-color: orange;
 }
